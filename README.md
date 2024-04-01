@@ -1,8 +1,8 @@
 Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
 
-That's it, that's the software. You can watch some demos [here](https://drive.google.com/drive/folders/1KHv8n_rd3Lcr2v7jBq1yPSTWM554Gq8e?usp=sharing).
+That's it, that's the software. You can watch some demos
 
-![demo-gif](demo.gif)
+
 
 ## Disclaimer
 This software is meant to be a productive contribution to the rapidly growing AI-generated media industry. It will help artists with tasks such as animating a custom character or using the character as a model for clothing etc.
@@ -65,3 +65,6 @@ Looking for a CLI mode? Using the -f/--face argument will make the program in cl
   
 ## inswapper_128.onnx file
 - https://github.com/facefusion/facefusion-assets/releases/download/models/inswapper_128.onnx
+
+## 更牛逼的react产品
+https://www.wehelpwin.com/article/4930
