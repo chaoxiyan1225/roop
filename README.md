@@ -67,5 +67,7 @@ Looking for a CLI mode? Using the -f/--face argument will make the program in cl
 - https://github.com/facefusion/facefusion-assets/releases/download/models/inswapper_128.onnx
 - https://gitcode.net/weixin_44760239/sd-webui-roop/-/blob/main/inswapper_128.onnx  能用  <br>
 
+https://gitcode.net/weixin_44760239/sd-webui-roop <br>
+
 ## 更牛逼的react产品
 https://www.wehelpwin.com/article/4930
