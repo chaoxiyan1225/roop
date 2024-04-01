@@ -62,3 +62,6 @@ Looking for a CLI mode? Using the -f/--face argument will make the program in cl
 - [ffmpeg](https://ffmpeg.org/): for making video related operations easy
 - [deepinsight](https://github.com/deepinsight): for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models.
 - and all developers behind libraries used in this project.
+  
+## inswapper_128.onnx file
+- https://github.com/facefusion/facefusion-assets/releases/download/models/inswapper_128.onnx
